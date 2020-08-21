@@ -14,7 +14,7 @@ Overall Solution process:
 
 Stage 1:
 
-    • Use of pytesseract to detect the text within images (not very user api hence had to try various alterations of this api)
+    • Use of pytesseract to detect the text within images (not very user api friendly hence had to try various alterations of this api)
 
 Stage 2:
 
